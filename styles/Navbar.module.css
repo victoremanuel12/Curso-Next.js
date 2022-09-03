@@ -1,0 +1,22 @@
+.navbar {
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+   padding: 20px 10px;
+   background-color: black;
+}
+.navbar li {
+   margin-right: 10px;
+   list-style: none;
+}
+.navbar a {
+   border-radius: 5px;
+   color: white;
+   padding: 10px 20px;
+   text-decoration: none;
+   transition: .5s;
+}
+.navbar li a:hover{
+   background-color: white;
+   color: black;
+}

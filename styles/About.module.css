@@ -1,0 +1,13 @@
+.title{
+   font-size: 2rem;
+   text-align: start;
+   font-weight: bold;
+   color: gray;
+}
+.description {
+   width: 80%;
+   margin: 0 auto ;
+}
+.description p{
+   margin-top: 20px ;
+}
